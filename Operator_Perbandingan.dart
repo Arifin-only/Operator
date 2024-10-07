@@ -6,6 +6,6 @@
    print(10 <= 10);
    print(10 >= 10);
 
-   print('alfi' == 'alfi');
-   print('alfi' != 'alfi');
+   print('Arifin' == 'Arifin');
+   print('Arifin' != 'Arifin');
  }
